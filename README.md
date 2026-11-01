@@ -1031,6 +1031,7 @@ Repositorio Original: [Public-APIs]([#animales](https://github.com/public-apis/p
 | --- | --- | --- | --- | --- |
 | [Advice Slip](http://api.adviceslip.com/) | Generar consejos aleatorios | `Ninguna` | Sí | Sí |
 | [Biriyani As A Service](https://biriyani.astik.co/) | Imágenes de biriyani | `Ninguna` | Sí | No |
+| [Bucketlist.nl](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | Idea diaria de viajes y experiencias de vida; JSON en neerlandés por defecto | `Ninguna` | Sí | Sí |
 | [Dev.to](https://developers.forem.com/api) | Contenido generado por la comunidad | `Ninguna` | Sí | Sí |
 | [FavQs.com](https://favqs.com/api) | FavQs te permite coleccionar, descubrir y compartir tus citas favoritas | `apiKey` | Sí | Sí |
 | [FOAAS](http://www.foaas.com/) | Fuck Off As A Service | `Ninguna` | No | No |
