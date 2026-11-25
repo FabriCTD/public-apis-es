@@ -1162,6 +1162,7 @@ Repositorio Original: [Public-APIs]([#animales](https://github.com/public-apis/p
 | [OpenLigaDB](https://www.openligadb.de) | Resultados de ligas deportivas crowdsourced | `Ninguna` | Sí | Sí |
 | [Sport Data](https://sportdataapi.com) | Obtener datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
 | [Sporth](https://sports.api-sports.io/) | Todos los datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
+| [Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api) | Marcadores, resultados y clasificaciones ATP y WTA (Actor de Apify, solo API; Standby/MCP no está disponible). | `apiKey` | Sí | Desconocido |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Datos deportivos y obras de arte crowdsourced | `apiKey` | Sí | Sí |
 | [Wger](https://wger.de/en/software/api) | Datos de gestor de entrenamientos como ejercicios, músculos o equipamiento | `apiKey` | Sí | Sí |
 
