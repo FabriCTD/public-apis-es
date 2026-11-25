@@ -1162,6 +1162,7 @@ Repositorio Original: [Public-APIs]([#animales](https://github.com/public-apis/p
 | [OpenLigaDB](https://www.openligadb.de) | Resultados de ligas deportivas crowdsourced | `Ninguna` | Sí | Sí |
 | [Sport Data](https://sportdataapi.com) | Obtener datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
 | [Sporth](https://sports.api-sports.io/) | Todos los datos deportivos de todo el mundo | `apiKey` | Sí | Sí |
+| [Tennis Scores API (Public Records)](https://apify.com/publicrecords/tennis-scores-api) | Marcadores, resultados y clasificaciones ATP y WTA (Actor de Apify, solo API; Standby/MCP no está disponible). | `apiKey` | Sí | Desconocido |
 | [TheSportsDB](https://www.thesportsdb.com/api.php) | Datos deportivos y obras de arte crowdsourced | `apiKey` | Sí | Sí |
 | [Wger](https://wger.de/en/software/api) | Datos de gestor de entrenamientos como ejercicios, músculos o equipamiento | `apiKey` | Sí | Sí |
 
@@ -1266,3 +1267,14 @@ Repositorio Original: [Public-APIs]([#animales](https://github.com/public-apis/p
 | [Transport for Vancouver, Canada](https://developer.translink.ca/) | TransLink | `OAuth` | Sí | Sí |
 | [Uber](https://developer.uber.com/products) | Solicitudes de viaje y estimación de precios de Uber | `OAuth` | Sí | Sí |
 | [Where's My Transit?](https://whereismytransit.com/) | Datos de tránsito para aplicaciones móviles | `OAuth` | Sí | Sí |
+
+
+## APIs de datos públicos (Apify)
+
+- [USAspending MCP: contratos y subvenciones federales adjudicados](https://apify.com/publicrecords/usaspending-awards-scraper) - Contratos y subvenciones federales de EE. UU. adjudicados según USAspending, por agencia, beneficiario, NAICS y periodo (Apify).
+- [Grants.gov MCP: subvenciones federales abiertas de EE. UU.](https://apify.com/publicrecords/grants-gov-scraper) - Subvenciones federales de EE. UU. abiertas en Grants.gov: agencia, plazo, requisitos y enlace a la fuente (Apify).
+- [Contratos federales de EE. UU. MCP: SAM.gov + Grants.gov](https://apify.com/publicrecords/govcon-opportunity-feed) - Nuevos anuncios de contratos y subvenciones federales de EE. UU. de SAM.gov y Grants.gov en un solo feed, con enlaces (Apify).
+- [Licitaciones UE TED MCP: anuncios de contratación diarios](https://apify.com/publicrecords/eu-ted-notices-scraper) - Anuncios de contratación pública de la UE desde TED (Tenders Electronic Daily): comprador, CPV, valor, plazo y enlace (Apify).
+- [Licitaciones del Reino Unido MCP: Find a Tender y Contracts Finder](https://apify.com/publicrecords/uk-find-a-tender-scraper) - Licitaciones del gobierno británico de Find a Tender y Contracts Finder: comprador, valor, plazo y enlace (Apify).
+- [Sesiones de concejos municipales MCP (Legistar)](https://apify.com/publicrecords/legistar-meetings-scraper) - Sesiones de concejos municipales, puntos del orden del día y documentos de cualquier ciudad en Legistar, con enlaces a la fuente (Apify).
+- [Calibration Ledger MCP: historial de pronósticos de instituciones (beta)](https://apify.com/publicrecords/calibration-ledger) - Historial de pronósticos de una institución (FMI, OCDE, Fed, SPF del BCE, emisores cotizados): errores, sesgo y cobertura de intervalos. Beta (Apify).
